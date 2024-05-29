@@ -3,11 +3,11 @@
 ## How to Install Protobuf
 
 1. Download the file from [protobuf releases](https://github.com/protocolbuffers/protobuf/releases) based on your CPU architecture.
-    1.1. For Rasp4:
+    1.1. For Rasp4:  
         ```bash
         $ curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v27.0/protoc-27.0-linux-aarch_64.zip
         ```
-    1.2. For Scouter:
+    1.2. For Scouter:  
         ```bash
         $ curl -OL https://github.com/protocolbuffers/protobuf/releases/download/v27.0/protoc-27.0-linux-x86_64.zip
         ```
